@@ -8,7 +8,7 @@ Compiler for [Toy](https://github.com/Ratstail91/Toy) written in Java
 + IntelliJ IDEA
 
 ## Contributors
-[Luigi Bozzoli](https://github.com/LuigiBozzoli)
+[Luigi Bozzoli](https://github.com/Luigi-Bozzoli)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
